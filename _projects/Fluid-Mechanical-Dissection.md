@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Fluid Mechanics Dissection
+title: Fluid Mechanical Dissection
 description: Dissection of a saloon chair
 image: /assets/images/FMD.jpg
 ---
