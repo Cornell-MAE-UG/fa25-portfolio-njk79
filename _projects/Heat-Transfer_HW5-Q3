@@ -1,0 +1,12 @@
+---
+layout: project
+title: Heat Transfer Homework Assignment Reflection
+description: Most valuable homework assignment from the course.
+technologies: [N/A]
+image: /assets/images/Heat.png
+---
+Link to Homework Assignment: https://drive.google.com/file/d/1GSKogwjJXXWWLpsWw9K3PaHSzV-eAyu9/view?usp=drive_link
+
+This assignment helped me better understand how different heat transfer mechanisms can be modeled together using thermal resistance networks and energy balances. In the photovoltaic panel problem, I analyzed how conduction through layered materials, convection, and radiation interact to find the operating temperature of the system and how temperature can affect the panel’s electrical efficiency. 
+
+The problems involving fins and exposed rods also helped me apply extended surface theory to practical engineering situations. By calculating fin efficiency, effectiveness, and thermal resistance, I learned how geometry, material properties, and convection conditions influence heat dissipation. These concepts are important for thermal management in many engineering systems, including electronics cooling and energy devices.
